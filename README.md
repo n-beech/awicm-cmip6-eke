@@ -1,5 +1,6 @@
-# cmip6-awicm-eke
-Jupyter notebooks used to calculate and analyze eddy kinetic energy in AWI-CM-1-1-MR's CMIP6 simulations.
+# Long-term evolution of ocean eddy actiivty in a warming world
+
+Jupyter notebooks to calculate and analyze eddy kinetic energy in AWI-CM-1-1-MR's CMIP6 simulations.
 
 [![DOI](https://zenodo.org/badge/515974861.svg)](https://zenodo.org/badge/latestdoi/515974861)
 
