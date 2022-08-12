@@ -1,6 +1,8 @@
 # cmip6-awicm-eke
 Jupyter notebooks used to calculate and analyze eddy kinetic energy in AWI-CM-1-1-MR's CMIP6 simulations.
 
+[![DOI](https://zenodo.org/badge/515974861.svg)](https://zenodo.org/badge/latestdoi/515974861)
+
 Some notebooks can run independently of others, some must be run in a certain order. An example order: geostrophy_calculations, merge_velocity_datasets, running_mean_anomalies, 
 EKE_calcualtions, observational_period_modeled_EKE_calculations, observed_EKE_calcualtions, area_weighting, area-integrated_ocean_basins, any/all visualization notbooks.
 
