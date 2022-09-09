@@ -12,7 +12,7 @@ Semmler, Tido; Danilov, Sergey; Rackow, Thomas; Sidorenko, Dmitry; Barbi, Dirk; 
 
  Mesh information for the analysis of these datasets is available in the associated Zenodo repository:
 
-Beech, N. (2022). n-beech/awicm-cmip6-eke: Inititial (v1.0): Jupyter notebooks to calculate and analyze eddy kinetic energy in AWI-CM-1-1-MR's CMIP6 simulations. Zenodo. https://doi.org/10.5281/zenodo.6984684 
+Beech, N. (2022). n-beech/awicm-cmip6-eke: Inititial (v1.0): Jupyter notebooks to calculate and analyze eddy kinetic energy in AWI-CM-1-1-MR's CMIP6 simulations. Zenodo. https://doi.org/10.5281/zenodo.7050573 
 
  Observational data used in this analysis is available from E.U. Copernicus Marine Service Information:
 
